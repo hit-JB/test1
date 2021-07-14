@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/07_servlet/07_servlet.iml" filepath="$PROJECT_DIR$/07_servlet/07_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Book_project/Book_project.iml" filepath="$PROJECT_DIR$/Book_project/Book_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jdbc_test/Jdbc_test.iml" filepath="$PROJECT_DIR$/Jdbc_test/Jdbc_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book_Static.iml" filepath="$PROJECT_DIR$/book_Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webTomcat/webTomcat.iml" filepath="$PROJECT_DIR$/webTomcat/webTomcat.iml" />
+    </modules>
+  </component>
+</project>
